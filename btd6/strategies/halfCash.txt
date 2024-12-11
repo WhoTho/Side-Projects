@@ -1,0 +1,24 @@
+place, dart 1
+place, dart 2
+start
+place, hero (sauda)
+sell, dart 2
+place, ace
+upgrade, ace, 002
+place, alch
+set targeting, alch, strong
+upgrade, ace, 103
+upgrade, alch, 200
+upgrade, ace, 203
+upgrade, alch, 320
+place, village
+upgrade, village, 220
+upgrade, alch, 420
+place, bomb (cluster)
+upgrade, bomb (cluster), 204
+upgrade, village, 420
+place, bomb (moab)
+upgrade, bomb (moab), 240
+place, wizard
+upgrade, wizard, 031
+upgrade, wizard, 032

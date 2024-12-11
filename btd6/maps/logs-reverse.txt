@@ -1,0 +1,3 @@
+placement, hero (sauda), 2246, 741
+placement, heli 1, 2211, 886
+placement, heli 2, 2462, 498

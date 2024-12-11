@@ -1,0 +1,14 @@
+place, hero (sauda)
+start
+place, sniper (elite defender)
+place, druid (SoTF)
+upgrade, druid (SoTF), 110
+place, village
+upgrade, village, 020
+upgrade, druid (SoTF), 130
+upgrade, sniper (elite defender), 025
+place, sniper (cripple moab)
+set targeting, sniper (cripple moab), strong
+upgrade, sniper (cripple moab), 420
+upgrade, village, 220
+upgrade, druid (SoTF), 150

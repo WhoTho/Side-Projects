@@ -1,0 +1,22 @@
+place, hero (sauda)
+start
+place, sniper (elite defender)
+place, druid (SoTF)
+upgrade, druid (SoTF), 110
+upgrade, druid (SoTF), 130
+upgrade, sniper (elite defender), 025
+place, sniper (cripple moab)
+set targeting, sniper (cripple moab), strong
+upgrade, sniper (cripple moab), 420
+place, village
+upgrade, village, 220
+upgrade, druid (SoTF), 150
+upgrade, village, 230
+place, mortar (shattering)
+set targeting, mortar (shattering), custom, main
+upgrade, mortar (shattering), 024
+place, sniper (auto)
+upgrade, sniper (auto), 204
+place, sniper (auto 2)
+upgrade, sniper (auto 2), 204
+upgrade, sniper (cripple moab), 520

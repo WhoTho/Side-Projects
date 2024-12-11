@@ -1,0 +1,17 @@
+# Python specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Ignore all files in data directory
+data/*
+
+# Except for this specific file
+!data/popular-trie.txt

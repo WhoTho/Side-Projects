@@ -1,0 +1,3 @@
+placement, hero (sauda), 2388, 464
+placement, boomer (moar), 2400, 354
+placement, boomer (press), 2402, 530

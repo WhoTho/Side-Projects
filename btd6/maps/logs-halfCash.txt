@@ -1,0 +1,9 @@
+placement, dart 1, 2273, 459
+placement, dart 2, 2394, 245
+placement, hero (sauda), 2388, 461
+placement, ace, 2509, 344
+placement, alch, 2397, 344
+placement, village, 2507, 246
+placement, bomb (cluster), 2406, 277
+placement, bomb (moab), 2404, 206
+placement, wizard, 2413, 529

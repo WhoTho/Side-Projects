@@ -1,0 +1,17 @@
+place, hero (sauda)
+start
+place, wizard (prince)
+upgrade, wizard (prince), 020
+upgrade, wizard (prince), 024
+set targeting, wizard (prince), custom, 2
+place, ninja (grandmaster)
+upgrade, ninja (grandmaster), 401
+place, alch
+upgrade, alch, 300
+upgrade, alch, 420
+upgrade, wizard (prince), 025
+place, ninja (bloonjitsu 1)
+upgrade, ninja (bloonjitsu 1), 401
+place, ninja (bloonjitsu 2)
+upgrade, ninja (bloonjitsu 2), 401
+upgrade, ninja (grandmaster), 501

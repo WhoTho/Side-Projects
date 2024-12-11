@@ -1,0 +1,7 @@
+placement, hero (sauda), 2386, 457
+placement, wizard (prince), 2386, 352
+set targeting, wizard (prince), 2330, 622
+placement, ninja (grandmaster), 2269, 459
+placement, alch, 2273, 528
+placement, ninja (bloonjitsu 1), 2263, 352
+placement, ninja (bloonjitsu 2), 2465, 458

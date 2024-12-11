@@ -1,0 +1,7 @@
+place, hero (sauda)
+start
+place, heli 1
+upgrade, heli 1, 200
+upgrade, heli 1, 420
+place, heli 2
+upgrade, heli 2, 420

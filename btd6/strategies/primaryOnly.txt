@@ -1,0 +1,6 @@
+place, hero (sauda)
+start
+place, boomer (moar)
+upgrade, boomer (moar), 402
+place, boomer (press)
+upgrade, boomer (press), 024

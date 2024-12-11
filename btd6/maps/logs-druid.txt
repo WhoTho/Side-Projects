@@ -1,0 +1,9 @@
+placement, hero (sauda), 2388, 350
+placement, sniper (elite defender), 2380, 453
+placement, druid (SoTF), 2464, 360
+placement, sniper (cripple moab), 2445, 460
+placement, village, 2531, 489
+placement, mortar (shattering), 2412, 552
+set targeting, mortar (shattering), 2196, 235
+placement, sniper (auto), 2536, 357
+placement, sniper (auto 2), 2681, 362

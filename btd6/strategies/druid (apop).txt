@@ -1,0 +1,10 @@
+place, hero (sauda)
+start
+place, sniper (elite defender)
+place, druid (SoTF)
+upgrade, druid (SoTF), 110
+upgrade, druid (SoTF), 130
+upgrade, sniper (elite defender), 024
+place, village
+upgrade, village, 230
+upgrade, sniper (elite defender), 025
